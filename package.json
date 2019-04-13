@@ -6,15 +6,15 @@
   "author": "philastrio <han_gang@naver.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.2.2",
     "@babel/node": "^7.2.2",
-    "@babel/preset-env": "^7.4.3",
-    "dotenv": "^7.0.0",
+    "@babel/preset-env": "^7.3.1",
+    "dotenv": "^6.2.0",
     "graphql-tools": "^4.0.4",
     "graphql-yoga": "^1.17.4",
     "merge-graphql-schemas": "^1.5.8",
     "morgan": "^1.9.1",
-    "prisma-client-lib": "^1.30.0"
+    "prisma-client-lib": "^1.26.4"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
