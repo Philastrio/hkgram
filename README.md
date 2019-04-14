@@ -5,6 +5,8 @@ Instagram cloen with Express + Prisma + React and React Native
 # User Stroies
 
 - [x] Create account
+- [ ] Request Secret
+- [ ] Confirm Secret(Login)
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
@@ -13,7 +15,6 @@ Instagram cloen with Express + Prisma + React and React Native
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [ ] Log in
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
