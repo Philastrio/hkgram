@@ -5,7 +5,7 @@ import schema from "./schema.js";
 import "./passport";
 import { authenticateJwt } from "./passport";
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 4000;
 
 const server = new GraphQLServer({
   schema,
